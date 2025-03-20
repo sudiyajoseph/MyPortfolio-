@@ -24,7 +24,7 @@
 #### **2️⃣ HRMS - Human Resource Management**  
    - **Tech Stack:** Angular, Spring Boot, MongoDB  
    - **Features:** Employee management, payroll, attendance tracking  
-   - [📂 View Repository](YourProjectLinkHere)  
+   - [📂 View Repository](https://github.com/sudiyajoseph/HrmsProject)  
 
 #### **3️⃣ Grocery App (Single & Multi-Vendor)**  
    - **Tech Stack:** Angular, Spring Boot, MongoDB  
