@@ -38,7 +38,7 @@
 ### **1️⃣ CRMS - Customer Relationship System**  
 - **Tech Stack:** Angular, Spring Boot, MongoDB  
 - **Features:** Lead management, filtering, table display, pagination  
-- [📂 View Repository](#)  
+- [📂 View Repository](https://github.com/sudiyajoseph/CRMS-/blob/main/README.md)
 
 ### **2️⃣ HRMS - Human Resource Management System**  
 - **Tech Stack:** Angular, Spring Boot, MongoDB  
@@ -48,12 +48,12 @@
 ### **3️⃣ Grocery App (Single & Multi-Vendor)**  
 - **Tech Stack:** Angular, Spring Boot, MongoDB  
 - **Features:** Cart management, order history, search filters  
-- [📂 View Repository](#)  
+- [📂 View Repository](https://github.com/sudiyajoseph/Grocery-Application/blob/main/README.md)  
 
 ### **4️⃣ Food Ordering System**  
 - **Tech Stack:** Angular, Spring Boot, MongoDB  
 - **Features:** Online food ordering, payment integration, order tracking  
-- [📂 View Repository](#)  
+- [📂 View Repository](https://github.com/sudiyajoseph/Food-Order/blob/main/README.md)  
 
 ### **5️⃣ Doctor Appointment System**  
 - **Tech Stack:** Angular, Spring Boot  
