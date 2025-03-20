@@ -66,7 +66,7 @@
 
 ## 📫 Connect with Me  
 📧 **Email:** sudiya853@gmail.com  
-🔗 **LinkedIn:** (https://www.linkedin.com/feed/)](#](https://www.linkedin.com/in/sudiya-joseph-4100531bb/)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/sudiya-joseph-4100531bb/]  
 🌐 **Portfolio Website:** [Your Portfolio Link (Optional)](#)  
 ⭐ **Star my projects if you find them useful!**  
 
