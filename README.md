@@ -1,38 +1,43 @@
-# Hi, I'm Sudiya J! 👋
+# 💻 Sudiya J - Angular & Spring Boot Developer  
 
-🚀 **Angular Developer | Spring Boot | MongoDB**  
-🌍 **Remote Work Enthusiast**  
+🚀 **Angular Developer | Java | Spring Boot | MongoDB**  
+🌍 **Looking for Remote Work**  
 
-### 🏆 **About Me**
+### 🏆 About Me
 - 🔹 3.6+ years of experience in **Angular, Java, and MongoDB**  
 - 🔹 Passionate about building **scalable web applications**  
-- 🔹 Experienced in **full project development (frontend & backend) from scratch**  
+- 🔹 Full-stack developer – from **UI to backend & deployment**  
 
-### 💻 **Skills**
+### 🔧 Skills
 - **Frontend:** Angular (v9–v17), Tailwind CSS, Bootstrap, Material UI  
 - **Backend:** Java, Spring Boot  
 - **Database:** MongoDB  
 - **Version Control:** Git, GitHub, GitLab  
 - **Cloud & Deployment:** AWS  
 
-### 🚀 **Projects**
-- [📂 CRMS - Customer Relationship System]  
-- [📂 HRMS - Human Resource Management] 
-- [📂 Grocery App (Single & Multi-Vendor)] 
-- [📂 Food Ordering System (Spring Boot + MongoDB)]
-- [📂 Boxfile Audit Application] 
-- [📂 Apollo Audit Assurance] 
-- [📂 Minvarisai]
-- [📂 Doctor Appication] 
+### 📌 Projects  
+#### **1️⃣ CRMS - Customer Relationship System**  
+   - **Tech Stack:** Angular, Spring Boot, MongoDB  
+   - **Features:** Lead management, filtering, table display, pagination  
+   - [📂 View Repository](YourProjectLinkHere)  
 
+#### **2️⃣ HRMS - Human Resource Management**  
+   - **Tech Stack:** Angular, Spring Boot, MongoDB  
+   - **Features:** Employee management, payroll, attendance tracking  
+   - [📂 View Repository](YourProjectLinkHere)  
 
-### 📫 **Get in Touch**
-- Email: sudiya853@gmail.com  
-- LinkedIn: [Your LinkedIn Profile](LinkedInLinkHere)  
-- GitHub: [Your GitHub Profile](GitHubProfileLinkHere)  
+#### **3️⃣ Grocery App (Single & Multi-Vendor)**  
+   - **Tech Stack:** Angular, Spring Boot, MongoDB  
+   - **Features:** Cart management, order history, search filters  
+   - [📂 View Repository](YourProjectLinkHere)  
+
+🔗 **More projects listed in this repository!**  
 
 ---
-⭐ **Star** my projects if you find them useful!  
-### 📊 GitHub Stats
-![Sudiya's GitHub Stats](https://github.com/sudiyajoseph/MyPortfolio-/edit/main/README.md)
 
+### 📫 Contact Me  
+- **Email:** sudiya853@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](LinkedInProfileLinkHere)  
+- **GitHub:** [GitHub Profile](https://github.com/sudiyajoseph)  
+
+⭐ **Star my projects if you find them useful!**  
